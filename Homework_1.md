@@ -90,8 +90,10 @@ At the quantitative level, each label is given a specific weight, and the total 
 Through we analysis the users' information , we can summary the information as user profile and user behavior. The results of analysis can  bring high value in improving the recommendation system and expand the influence of the 'zhihu.com' community. 
 
 - **Accurately recommend:** "Zhihu.com" have accumulated a certain amount of users and data, we should give priority to analysis the users background. This is a way called user's portrait. It is based on all kinds of data left by users on the Internet, actively or passively collected, and finally processed into a series of labels. We can accurately recommend content to users through user portraits and create a better ecosystem for each user. We can also recommend suitable users and strengthen people's contact. If the user thinks the recommended content is good, it will trigger the reward function.
+
 - **Get high-value content:** We classify users accurately by analyzing their behavior. In some specific areas, users can find a sense of common belonging. When users are in a common interest group, users will be more likely to bring a variety of valuable content to the community. Users' recognition of high-value users(big V) will also bring high-quality content.
-- **Get new users：**After we analysis the big data of the users, we can do a series of optimization, feedback, adjustment and future get more users. “Zhihu.com” should let old users feel that the value of the community is high enough, so they are willing to invitate new users. In that way, “zhihu.com” community can expand network influence.
+
+- **Get new users:** After we analysis the big data of the users, we can do a series of optimization, feedback, adjustment and future get more users. “Zhihu.com” should let old users feel that the value of the community is high enough, so they are willing to invitate new users. In that way, “zhihu.com” community can expand network influence.
 
 ### 3.Databases to be used
 
