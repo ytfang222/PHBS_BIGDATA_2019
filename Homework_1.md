@@ -40,16 +40,13 @@ With Velocity we refer to the speed with which data are being generated. Users c
 
 **2.1 Oversee the workflow**
 
-![image-20191126151638330](/Users/mac/Library/Application Support/typora-user-images/image-20191126151638330.png)
-
-![image-20191126193459754](/Users/mac/Library/Application Support/typora-user-images/image-20191126193459754.png)
+![images](https://github.com/ytfang222/PHBS_BIGDATA_2019/raw/master/1.png)
+![images](https://github.com/ytfang222/PHBS_BIGDATA_2019/raw/master/2.png)
 
 **2.2 Data Source**
 
 Using the Python's scrape framework to get the basic information of 300W + core users. The data is in JSON format. The information that we see in the web page is as follows：
-
-![image-20191126150545887](/Users/mac/Library/Application Support/typora-user-images/image-20191126150545887.png)
-
+![images](https://github.com/ytfang222/PHBS_BIGDATA_2019/raw/master/3.png)
 **2.3 Database**
 
 The file stores data to mangodb, which clearly defines user attributes and user behavior data, including name, gender, location and other information list.
